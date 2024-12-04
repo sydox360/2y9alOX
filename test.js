@@ -117,7 +117,7 @@ if (domainMatch) {
   });
   if ('/' === window.location.pathname) {
     window.onload = function () {
-      var _0x274c83 = document.getElementById("sydox");
+      var _0x274c83 = document.getElementById("musta");
       if (null !== _0x274c83) {
         _0x274c83.setAttribute("href", "https://sydox.it/");
         _0x274c83.innerHTML = "SYDOX";
