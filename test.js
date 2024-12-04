@@ -1,5 +1,5 @@
 var currentURL = window.location.href;
-var targetDomains = ["seller-area.youcan.shop", "sydox.it", "themesmusta.youcan.shop"];
+var targetDomains = ["seller-area.youcan.shop", "sydox.it", "themesmusta.youcan.store"];
 currentURL = currentURL.replace(/(^\w+:|^)\/\//, '');
 currentURL = currentURL.replace(/^www\./, '');
 var domainMatch = targetDomains.some(function (_0x439009) {
