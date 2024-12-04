@@ -174,7 +174,7 @@ if (domainMatch) {
         _0x473212.className = "discount-sidox";
         let _0x4c672b = _0x3a2863 ? _0x3a2863.textContent : "mad";
         _0x473212.textContent = "خصم " + (_0x43b5ba - _0x51a033) + " " + _0x4c672b;
-        _0x30feb4.appendChild(_0x473212);
+        _0x30feb4.appendChild(_0x473212); 
       }
     }
   };
